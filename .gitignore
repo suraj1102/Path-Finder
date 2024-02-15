@@ -31,5 +31,9 @@
 *.out
 *.app
 
+# MacOS and VScode stuff
 *.vscode
 *.DS_Store
+
+# CMake Build
+build/
